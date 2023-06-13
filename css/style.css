@@ -1,5 +1,145 @@
 .container {
 	width: 1160px;
-	border: 1px solid black;
+/*	border: 1px solid black;*/
 	margin: 0 auto;
 }
+body {
+	background: #F1F1F1;
+}
+nav, {
+	display: inline-block;
+	vertical-align: middle;
+}
+header {
+	margin-top: 11px;
+}
+.imgus {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+Li {
+	display: inline-block;
+	vertical-align: middle;
+}
+ul {
+	display: inline-block;
+	vertical-align: middle;
+}
+li a {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 35px;
+	font-weight: 700;
+	font-size: 11px;
+	line-height: 13px;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+}
+.con1 {
+	margin-right: 29px;
+}
+.title {
+	margin-top: 42px;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 27px;
+}
+.div-s1 {
+	margin-right: 31px;
+	display: inline-block;
+	position: relative;
+	width: 362px;
+	height: 357px;
+/*	border: 1px solid black;*/
+	background: white;
+	border-radius: 5px 5px 5px 5px;
+}
+.div-s8 {
+	margin-left: 31px;
+	display: inline-block;
+	position: relative;
+	width: 362px;
+	height: 357px;
+/*	border: 1px solid black;*/
+	background: white;
+	border-radius: 5px 5px 5px 5px;
+}
+.div-s9 {
+	display: inline-block;
+	position: relative;
+	width: 362px;
+	height: 357px;
+/*	border: 1px solid black;*/
+	background: white;
+	border-radius: 5px 5px 5px 5px;
+}
+.div-s2 {
+	display: inline-block;
+	display: inline-block;
+	position: absolute;
+/*	border: 1px solid black;*/
+	width: 362PX;
+	height: 171PX;
+}
+.parent {
+	display: inline-block;
+	position: relative;
+	width: 362PX;
+	height: 171PX;
+}
+.ph3 {
+	position: absolute;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+	top: 23%;
+	left: 25%;
+	transform: translate(-25%, -23%);
+}
+.div-s1-h2 {
+	width: 238px;
+    height: 15px;
+	margin-bottom: 6px;
+	font-weight: 700;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+}
+.div-s2-h2 {
+	width: 238px;
+	height: 15px;
+	margin-bottom: 7px;
+	font-weight: 700;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+
+}
+.icone1 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 11px;
+
+}
+.div-s3-h2 {
+	vertical-align: middle;
+	display: inline-block;
+	font-weight: 700;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+}
+.div-s4 {
+	margin-left: 37px;
+	margin-top: 70px;
+
+}
+
